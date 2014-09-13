@@ -1,0 +1,9 @@
+#Ignore LabVIEW things
+[Bb]uilds/*
+*.lvlps
+*.aliases
+
+
+#Windows Junk
+[Tt]humbs.db
+*.DS_Store
