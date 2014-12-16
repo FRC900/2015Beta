@@ -779,6 +779,9 @@ AddOutputFilter chunkFilter
 			<Item Name="F510-D.vi" Type="VI" URL="../900/Logitech/F510/F510-D.vi"/>
 			<Item Name="F510-X.vi" Type="VI" URL="../900/Logitech/F510/F510-X.vi"/>
 			<Item Name="F510.vi" Type="VI" URL="../900/Logitech/F510/F510.vi"/>
+			<Item Name="FRC_NetworkCommunication.dll" Type="Document" URL="FRC_NetworkCommunication.dll">
+				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
+			</Item>
 			<Item Name="ImageSend.vi" Type="VI" URL="../900/ImageSend.vi"/>
 			<Item Name="LaunchBall.vi" Type="VI" URL="../900/Launch/LaunchBall.vi"/>
 			<Item Name="MB1010AnalogPID.vi" Type="VI" URL="../900/Drive/MB1010AnalogPID.vi"/>
